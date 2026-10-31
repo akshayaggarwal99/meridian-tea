@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Meridian Tea Company</title>
+  <circle cx="32" cy="32" r="31" fill="#3f5a3c"/>
+  <path d="M32 11 C 47 19, 49 39, 32 53 C 15 39, 17 19, 32 11 Z" fill="#f7f2ea"/>
+  <path d="M32 14 C 26.5 25, 26.5 39, 32 50" fill="none" stroke="#3f5a3c" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M28.4 25 C 31 26.4, 35 26.4, 38.6 24.4" fill="none" stroke="#3f5a3c" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+  <path d="M27.6 35 C 31 36.6, 36 36.4, 40 34" fill="none" stroke="#3f5a3c" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+  <circle cx="47.5" cy="17.5" r="4" fill="#b0643c"/>
+</svg>

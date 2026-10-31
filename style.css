@@ -25,6 +25,7 @@ header.site .wrap {
   display: flex; align-items: center; justify-content: space-between;
   gap: 16px; flex-wrap: wrap; padding-top: 14px; padding-bottom: 14px;
 }
+.brand .logo { display: block; height: 56px; width: auto; }
 .brand { font-size: 22px; font-weight: bold; color: var(--ink); text-decoration: none; letter-spacing: .01em; }
 .brand small { display: block; font-size: 12px; font-weight: normal; color: var(--muted); letter-spacing: .08em; text-transform: uppercase; }
 nav a { margin-left: 18px; color: var(--ink); text-decoration: none; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 15px; }
@@ -49,6 +50,7 @@ footer.site { margin-top: 64px; border-top: 1px solid var(--line); padding: 24px
   font: 13px/1.4 -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; padding: 8px 16px;
 }
 @media (max-width: 640px) {
+  .brand .logo { height: 44px; }
   .hero h1 { font-size: 34px; }
   nav a { margin: 0 14px 0 0; }
   th, td { padding: 8px 10px; }
